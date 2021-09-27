@@ -1,0 +1,116 @@
+*{
+magin:0;
+padding:0;
+}
+body{
+background-color:#EEE;
+font-family: 'Otomanopee One', sans-serif;
+}
+
+.container {
+  max-width:1000px;
+  background-color: #E4F9F5;
+  margin: 0 auto;
+  }
+  
+  header{
+  }
+  
+  .profile-image{
+  width:100 px;
+  height:120 px;
+  border: 3 px solid white;
+  border-radius: 50% ;
+  float: left;
+  }
+  
+  .header-bio{
+  float:left;
+  padding:30 px;
+  }
+  
+  h1,h2,h3,h4,h5,h6{
+  color:#11999e;
+  }
+  
+  .header-contact{
+  float:right;
+  padding:30 px;
+  }
+  
+  .header-contact a {
+  text-decoration:none;
+  color:teal;
+  font-weight:bold;
+  }
+  
+  .header-contact a:hover {
+  text-decoration:underline;
+  color:tomato;
+  }
+  
+  .div-clear { clear:both;
+  }
+  
+  hr{ 
+  border: solid black 3px;
+  width:100%;
+  margin:20px auto;
+  border-bottom: none;
+  }
+  
+  #personal-section {
+  }
+  
+  .content{
+  }
+  
+  .left-div{
+  width:30%;
+  float:Left;
+  }
+  
+  .right-div{
+  width:70%;
+  float:left;
+  }
+  
+  .common-hr{
+  border: solid black 1px;
+  border-bottom: none;
+  width:100%;
+  margin: 20px auto;
+  }
+  
+  .left-ref{
+  width:30%;
+  float:left;
+ 
+  }
+  
+  .middle-ref{
+  width:30%;
+  float: right;
+  
+  }
+  
+  .right-ref{
+  width:30%;
+  float:right;
+  }
+  
+  .bottom {
+  background-color: black;
+  text-align:center;
+  padding:10 px;
+  }
+ 
+ .bottom a{
+ color:white;
+ text-decoration:none;
+ margin:20 px;
+ }
+ 
+ .bottom p{
+ color: white; 
+ margin-top:20px;}
